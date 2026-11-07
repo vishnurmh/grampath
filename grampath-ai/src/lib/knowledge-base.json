@@ -1,0 +1,122 @@
+[
+  {
+    "id": "kb-1",
+    "title": "Software Engineer Career Path",
+    "category": "Career Opportunities",
+    "content": "A software engineer designs, develops, tests, and maintains software applications. Required skills include programming in languages such as JavaScript, Python, or Java, knowledge of databases (SQL), version control using Git, and problem-solving. Typical education is a Bachelor's degree in Computer Science or a related field. Career opportunities include web development, mobile app development, product companies, and startups."
+  },
+  {
+    "id": "kb-2",
+    "title": "Data Scientist Qualifications",
+    "category": "Educational Qualifications",
+    "content": "A data scientist analyzes large datasets to extract insights and support data-driven decisions. Required skills include Python, statistics, SQL, machine learning, and data visualization. A bachelor's or master's degree in data science, statistics, or mathematics is typically required. Career opportunities exist in analytics teams, finance, e-commerce, and healthcare."
+  },
+  {
+    "id": "kb-3",
+    "title": "AI Engineer Skills and Roadmap",
+    "category": "Skills Required",
+    "content": "An AI engineer builds and deploys artificial intelligence models including machine learning and deep learning systems. Key skills include Python, TensorFlow or PyTorch, machine learning algorithms, deep learning, linear algebra, and natural language processing. A strong mathematics background and a degree in computer science or AI are recommended."
+  },
+  {
+    "id": "kb-4",
+    "title": "Civil Engineering Career",
+    "category": "Career Opportunities",
+    "content": "Civil engineers plan, design, and supervise construction of infrastructure such as roads, bridges, buildings, and water systems. Skills include AutoCAD, structural analysis, project management, surveying, and mathematics. A bachelor's degree in civil engineering is required. Opportunities exist in construction companies, government public works, real estate, and consulting firms."
+  },
+  {
+    "id": "kb-5",
+    "title": "Government Exams for Rural Students",
+    "category": "Government Examinations",
+    "content": "Rural students can prepare for government exams such as SSC (Staff Selection Commission), IBPS/SBI banking exams, RRB railway exams, and state-level PSC exams. These require preparation in general knowledge, quantitative aptitude, reasoning, English, and current affairs. Education requirements vary from 10th pass to graduate degree depending on the post."
+  },
+  {
+    "id": "kb-6",
+    "title": "Scholarships for Students",
+    "category": "Scholarship Information",
+    "content": "Several scholarships are available including National Means-cum-Merit Scholarship, Post-Matric Scholarship for SC/ST/OBC, Merit-cum-Means Scholarship for minorities, AICTE Pragati Scholarship for girls in technical education, and INSPIRE scholarship for basic sciences. Applications are typically made through the National Scholarship Portal (NSP) or respective ministry portals."
+  },
+  {
+    "id": "kb-7",
+    "title": "Agriculture Officer Career",
+    "category": "Career Opportunities",
+    "content": "An agriculture officer supports farmers with modern farming techniques, crop management, soil health, and government agriculture schemes. Required skills include crop science, soil analysis, pest management, and knowledge of government schemes. A bachelor's degree in agriculture or horticulture is typically required. Opportunities exist in state agriculture departments, Krishi Vigyan Kendras, and agri-business companies."
+  },
+  {
+    "id": "kb-8",
+    "title": "Teaching Career Path",
+    "category": "Career Opportunities",
+    "content": "A school teacher educates students, prepares lessons, assesses progress, and supports student development. Required skills include subject knowledge, lesson planning, classroom management, and communication. A bachelor's degree plus B.Ed and clearing TET/CTET exams are typically required for government schools."
+  },
+  {
+    "id": "kb-9",
+    "title": "Healthcare Careers Nursing and Medicine",
+    "category": "Career Opportunities",
+    "content": "Healthcare careers include registered nurses and doctors (MBBS). Nursing requires a diploma or B.Sc Nursing and state council registration. Medicine requires an MBBS degree from a recognized medical college, internship, and licensing. Opportunities exist in government hospitals, private hospitals, clinics, and research institutions."
+  },
+  {
+    "id": "kb-10",
+    "title": "Learning Resources for Rural Students",
+    "category": "Learning Resources",
+    "content": "Rural students can access free learning resources such as NPTEL (online courses from IITs), SWAYAM (government learning platform), DIKSHA (school education), Khan Academy, Coursera, and YouTube educational channels. Many resources are available in multiple Indian languages including Telugu."
+  },
+  {
+    "id": "kb-11",
+    "title": "Entrepreneurship for Students",
+    "category": "Career Pathways",
+    "content": "Entrepreneurship allows students to start their own business. Skills needed include business planning, sales and marketing, financial management, and leadership. No fixed educational requirement, but practical experience and market research are important. Government schemes such as Startup India and Mudra loans can support new ventures."
+  },
+  {
+    "id": "kb-12",
+    "title": "Data Science Learning Path",
+    "category": "Learning Resources",
+    "content": "To become a data scientist, start with Python fundamentals, then learn statistics and probability, SQL for data querying, data visualization with libraries like Matplotlib and Seaborn, and machine learning with scikit-learn. Practice on real datasets from Kaggle and build a project portfolio."
+  },
+  {
+    "id": "kb-13",
+    "title": "Python Fundamentals for Beginners",
+    "category": "Learning Resources",
+    "content": "Python is a beginner-friendly programming language used in web development, data science, AI, and automation. Start with variables, data types, loops, conditionals, functions, and modules. Practice by building small programs such as calculators, games, and file processors."
+  },
+  {
+    "id": "kb-14",
+    "title": "Machine Learning Basics",
+    "category": "Skills Required",
+    "content": "Machine learning enables computers to learn from data without explicit programming. Key concepts include supervised learning, unsupervised learning, regression, classification, clustering, and model evaluation. Common libraries include scikit-learn, TensorFlow, and PyTorch."
+  },
+  {
+    "id": "kb-15",
+    "title": "Deep Learning and Neural Networks",
+    "category": "Skills Required",
+    "content": "Deep learning is a subset of machine learning based on artificial neural networks. It is used in image recognition, natural language processing, and speech recognition. Popular frameworks include TensorFlow, Keras, and PyTorch. Requires understanding of linear algebra and calculus."
+  },
+  {
+    "id": "kb-16",
+    "title": "National Scholarship Portal (NSP)",
+    "category": "Scholarship Information",
+    "content": "The National Scholarship Portal (NSP) is a digital platform for students to apply for various government scholarships in India. Students can register, fill applications, upload documents, and track application status. Scholarships include pre-matric, post-matric, merit-cum-means, and technical education scholarships."
+  },
+  {
+    "id": "kb-17",
+    "title": "Banking Exams Preparation",
+    "category": "Government Examinations",
+    "content": "Banking exams such as IBPS PO, IBPS Clerk, SBI PO, and SBI Clerk test candidates on reasoning ability, quantitative aptitude, English language, general awareness, and computer knowledge. Preparation includes solving previous year papers, taking mock tests, and studying current affairs."
+  },
+  {
+    "id": "kb-18",
+    "title": "Railway Exams (RRB) Preparation",
+    "category": "Government Examinations",
+    "content": "RRB conducts exams for various railway posts such as NTPC, Group D, and JE. The syllabus includes mathematics, general intelligence and reasoning, general science, general awareness, and computer-based aptitude. Physical efficiency tests may apply for some posts."
+  },
+  {
+    "id": "kb-19",
+    "title": "Career Guidance for Rural Students",
+    "category": "Career Pathways",
+    "content": "Rural students can explore careers in agriculture, teaching, government jobs, healthcare, and technical fields. Career guidance should focus on local opportunities, accessible education pathways, skill development, and available scholarships. Local vocational training and ITI courses are also valuable options."
+  },
+  {
+    "id": "kb-20",
+    "title": "SSC Exams Overview",
+    "category": "Government Examinations",
+    "content": "SSC (Staff Selection Commission) conducts exams such as CGL, CHSL, MTS, and JE for central government posts. The selection process includes tier-wise written tests, skill tests, and document verification. Subjects include general intelligence, reasoning, general awareness, quantitative aptitude, and English comprehension."
+  }
+]
